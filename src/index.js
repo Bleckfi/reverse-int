@@ -1,4 +1,4 @@
-module.exports = function reverse(n) {
+module.exports = function reverse(num) {
     var myArr = String(num)
         .split("")
         .reverse()
